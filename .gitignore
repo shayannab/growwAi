@@ -1,11 +1,3 @@
-groweasy-backend/.env
-groweasy-backend/node_modules/
-
-frontend/node_modules/
-frontend/dist/
-frontend/dist-ssr/
-frontend/.env
-frontend/.tanstack/
-frontend/.output/
-frontend/.vinxi/
-frontend/.nitro/
+node_modules/
+.env
+dist/
